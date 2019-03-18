@@ -20,6 +20,7 @@ ${'' /* background-color: #f2b093; */}
   }
   a:hover {
     color: grey;
+    text-decoration: underline;
   }
   h1 {
     padding: 0 20px;
@@ -35,8 +36,8 @@ class Header extends Component {
           <ul>
             <li><a href="https://www.github.com/dakotahducharme">github</a></li>
             <li><a href="https://www.twitter.com/devdbd">twitter</a></li>
+            <li><a href="https://www.linkedin.com/in/devdbd/">linkedIn</a></li>
             <li><a href="">contact me</a></li>
-            <li><a href=""></a></li>
           </ul>
         </div>
       </MyHeader>
