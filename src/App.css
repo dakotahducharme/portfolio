@@ -1,4 +1,10 @@
 body {
-  background-color: #f4f1f1;
-  /* color: #ffeef7; */
+  background-image: url('pbg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  /* font-family: 'Playfair Display', serif; */
+  /* color: #4E4E4E; */
+  color: #4E4E4E;
+  font-family: 'Patua One', cursive;
 }

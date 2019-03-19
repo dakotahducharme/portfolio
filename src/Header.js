@@ -6,6 +6,7 @@ ${'' /* background-color: #f2b093; */}
   flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    font-family: 'Patua One', cursive;
   #container {
     display: inline-flex;
   }
@@ -16,7 +17,7 @@ ${'' /* background-color: #f2b093; */}
   }
   a {
     text-decoration: none;
-    color: #1e1e1e;
+    color: white;
   }
   a:hover {
     color: grey;
@@ -24,7 +25,7 @@ ${'' /* background-color: #f2b093; */}
   }
   h1 {
     padding: 0 20px;
-    color: #f2b093;
+    color: white;
   }
 `
 class Header extends Component {
