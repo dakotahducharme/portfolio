@@ -6,7 +6,7 @@ ${'' /* background-color: #f2b093; */}
   flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    font-family: 'Patua One', cursive;
+    ${'' /* font-family: 'Patua One', cursive; */}
   #container {
     display: inline-flex;
   }
