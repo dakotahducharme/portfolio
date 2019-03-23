@@ -8,27 +8,23 @@ self.__precacheManifest = [
     "url": "/static/media/mixme.ce651ebe.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/static/media/logo.5d5d9eef.svg"
-  },
-  {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "f9fb1a504cea52506920",
-    "url": "/static/js/main.a063f155.chunk.js"
+    "revision": "7c2e7820fe793c758b3f",
+    "url": "/static/js/main.0eb0ac8f.chunk.js"
   },
   {
-    "revision": "f178ae977236d9fc271b",
-    "url": "/static/js/2.60f80e0b.chunk.js"
+    "revision": "8935dcbd958ca29a528e",
+    "url": "/static/js/2.f14db1f8.chunk.js"
   },
   {
-    "revision": "f9fb1a504cea52506920",
-    "url": "/static/css/main.8238d899.chunk.css"
+    "revision": "7c2e7820fe793c758b3f",
+    "url": "/static/css/main.d26b1cec.chunk.css"
   },
   {
-    "revision": "cebd1d8278dd0bf5a7c3e7d455433263",
+    "revision": "3f02d5b724d0ac3ba2098f7c44e3b6c5",
     "url": "/index.html"
   }
 ];
